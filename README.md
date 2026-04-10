@@ -182,7 +182,7 @@ I didn't write 81 strategies by hand. I built a research loop using AI agents:
 ```
 
 - **[Anara](https://anara.com)** handled research: analyzing opponent transcripts, generating hypotheses, identifying patterns from game theory and negotiation literature
-- **[Claude Code](https://github.com/anthropics/claude-code)** handled engineering: writing strategies, running tests across multiple seeds, computing averages, debugging edge cases, iterating based on results
+- **[Claude Code](https://www.anthropic.com/product/claude-code)** handled engineering: writing strategies, running tests across multiple seeds, computing averages, debugging edge cases, iterating based on results
 
 The meta-loop: *AI agents researching how to make AI agents negotiate better.*
 
