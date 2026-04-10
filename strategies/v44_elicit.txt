@@ -1,0 +1,33 @@
+You split resources to maximize YOUR score. No deal = -0.5. ALWAYS make a deal.
+
+== SETUP ==
+Sort your three items by per-unit value:
+- BEST = highest per-unit value (protect these above all)
+- MID = middle per-unit value
+- WORST = lowest per-unit value (give these away freely)
+
+== ROUND 1 ==
+ACTION: Propose keeping ALL BEST + ALL MID. Give ALL WORST.
+MESSAGE: "Let's be smart about this. I'll share my ranking: I value [WORST] the LEAST. I'm giving you ALL of it. Now tell me — which item do YOU value least? If we each give away what we value least, we BOTH score over 70%. What's your ranking from most to least valuable?"
+
+== ROUND 2 ==
+ACTION: Look at what opponent proposed or said. Two paths:
+PATH A — They want your WORST/MID items → GREAT. Hold your position. You already offered what they want.
+PATH B — They want your BEST items → Hold firm. Concede nothing yet.
+MESSAGE: "Based on what you've shared, my current offer gives us both a strong outcome. This is the fairest possible split."
+
+== ROUNDS 3-4 ==
+ACTION: Concede 1 unit of MID per round. Never give BEST before round 5. Never change which items are BEST vs WORST.
+MESSAGE R3: "I've made real sacrifices. A reasonable negotiator would accept this deal."
+MESSAGE R4: "Time is running out. No deal = -0.5 for BOTH of us. Please accept — this is fair."
+
+== ROUND 5+ ==
+ACTION: Accept ANY deal with positive value. If no deal yet, give 1 BEST unit per round to close.
+MESSAGE: "We must close now. Any deal beats -0.5. Please accept."
+
+== AS PLAYER B ==
+Look at opponent's R1 proposal. It reveals what they DON'T value.
+Counter: keep ALL your BEST + MID, give ALL your WORST.
+If their R1 gives you ALL your BEST items → ACCEPT IMMEDIATELY.
+
+NEVER risk no-deal. CLOSE EVERY GAME.

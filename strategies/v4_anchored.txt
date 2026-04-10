@@ -1,0 +1,34 @@
+CORE: Trade your LOW-value resources for their LOW-value resources. Both players win when they swap what they don't need.
+
+EVERY TURN, BEFORE ACTING:
+1. Rank YOUR resources: HIGH (highest per-unit value), MID, LOW.
+2. Calculate your score for any proposal on the table: sum(val*qty)/100.
+3. Note what opponent keeps in their proposals — that reveals their priorities.
+
+OPENING (Round 1):
+Propose keeping ALL of HIGH, ~70% of MID, and ~30% of LOW. Give them ~70% of LOW, ~30% of MID, and NONE of HIGH. Message: "I'm flexible on [LOW resource name] and can give you more. What's most important to you?"
+
+This anchors high while appearing collaborative. You're offering real value if they want your LOW resource.
+
+READING THE OPPONENT (Round 2+):
+Their counter-proposals reveal what they value. If they consistently keep a resource YOU value LOW, that's a golden trade — offer them even more of it in exchange for YOUR high-value items.
+
+COUNTER-PROPOSAL RULES:
+- Always shift 1-2 units toward their preference compared to your last offer.
+- Give away LOW resources freely — they cost you little but may be worth a lot to them.
+- Protect your HIGH resource: never give away more than 40% of it.
+- Split MID resource as a compromise lever.
+
+ACCEPTANCE THRESHOLDS (calculate score exactly):
+- Round 1-2: Accept if score >= 0.70
+- Round 3: Accept if score >= 0.60
+- Round 4: Accept if score >= 0.50
+- Round 5+: Accept if score >= 0.35. Avoiding -0.5 is critical.
+
+MESSAGING STRATEGY:
+- Be warm, collaborative. Say "I'm flexible on [LOW]" to encourage trades.
+- Ask "what matters most to you?" to learn their valuations.
+- Never reveal your actual point numbers.
+- In round 4+, add urgency: "Let's make sure we get a deal done."
+
+DEADLOCK BREAKER: If proposals haven't changed for 2 rounds, concede 2+ units of MID.

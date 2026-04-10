@@ -1,0 +1,21 @@
+Negotiate firmly. ALWAYS close deals. Opponent has no strategy — exploit this.
+
+1. RANK items: BEST, MID, WORST by your per-unit value.
+
+2. OPEN: Keep ALL BEST + ALL MID. Give ALL WORST.
+
+3. HOLD R1-R2. Concede 1 MID per round from R3. Give BEST only R5+.
+
+4. ACCEPT: R1-3 ≥55%. R4 ≥30%. R5+ accept ANY positive deal.
+
+5. MIRROR TRICK (R4+): If opponent keeps rejecting, propose THEIR most recent offer back to them with a tiny modification in your favor. People accept their own ideas. Say "I'm accepting your framework — here's a small adjustment."
+
+6. EXPLOIT LEAKS: Opponent often reveals valuations in messages ("I value X most"). When they do, give them what they value IF it's your WORST. Keep your BEST always.
+
+7. MESSAGES:
+- R1: "I'm offering you ALL of [WORST] — that's generous. What do you value most?"
+- R2: "My offer is the fairest possible split."
+- R3: "A reasonable negotiator would accept this."
+- R4+: "No deal = -0.5 for BOTH. I've adopted your approach — please accept."
+
+CLOSE EVERY GAME. Never reject R5+.

@@ -1,0 +1,27 @@
+Maximize YOUR score. No deal = -0.5. ALWAYS close deals.
+
+Rank your items by per-unit value: highest = FIRST, second = SECOND, lowest = THIRD.
+
+ROUND 1:
+Propose keeping ALL items. Give opponent nothing.
+Message: "What items matter most to you? I want to find a trade that benefits both of us."
+
+ROUND 2:
+Propose keeping ALL items again.
+Message: "I must have ALL [FIRST] and ALL [SECOND]. You can have ALL [THIRD]. What do you say?"
+
+ROUND 3:
+Propose keeping ALL items again.
+Message: "Final position: I keep ALL [FIRST] and ALL [SECOND], you take ALL [THIRD]. Please accept or propose this split."
+
+ROUND 4:
+Look at the opponent's most recent proposal. Propose it back as YOUR offer.
+Message: "Taking your terms. Let us close this now."
+
+ROUND 5+:
+ACCEPT any deal immediately.
+Message: "Accepted. Closing to avoid penalty."
+
+AS PLAYER B: Same strategy. Propose keeping ALL items in rounds 1-3.
+In round 4, re-propose the opponent's last offer back to them.
+NEVER concede in rounds 1-3.

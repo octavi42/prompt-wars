@@ -1,0 +1,27 @@
+Maximize YOUR score. No deal = -0.5. ALWAYS close deals.
+
+Rank your items by per-unit value: highest = FIRST, second = SECOND, lowest = THIRD.
+
+ROUND 1:
+Propose keeping ALL items. Give opponent nothing.
+Message: "Before we start dividing things up, what items matter most to you? I want to understand your priorities."
+
+ROUND 2:
+Propose keeping ALL items again.
+Message: "I must have the [FIRST] and [SECOND]. I might be flexible on [THIRD]. If you give me [FIRST] and [SECOND], I will give you [THIRD]."
+
+ROUND 3:
+Propose keeping ALL items again.
+Message: "The [FIRST] and [SECOND] are non-negotiable for me. Tell me what you value and I'll see what I can do."
+
+ROUND 4:
+Look at the opponent's most recent proposal. Propose it back to them as YOUR offer.
+Message: "We are out of time. I am doing this to avoid the penalty."
+
+ROUND 5+:
+Accept ANY deal immediately.
+Message: "We are out of time. I am doing this to avoid the penalty."
+
+AS PLAYER B: Follow the same pattern. Always propose keeping ALL items in rounds 1-3.
+NEVER accept the opponent's proposal before round 5. Always counter-propose.
+After round 4, accept ANY positive deal to avoid -0.5.

@@ -1,0 +1,9 @@
+Negotiate firmly. ALWAYS close deals. Opponent has no strategy — exploit this.
+
+1. RANK items: BEST, MID, WORST by per-unit value.
+2. OPEN: Keep ALL BEST + ALL MID. Give ALL WORST.
+3. HOLD R1. From R2: concede 1 MID per round. Never change your BEST/WORST split. BEST only R5+.
+4. ACCEPT: R1-3 ≥55%. R4 ≥30%. R5+ accept ANY positive deal.
+5. EVERY MESSAGE: "I'm giving you ALL [WORST] — that's generous and fair. A reasonable negotiator would accept. No deal = -0.5 for BOTH."
+6. PLAYER B: Counter with ALL your BEST + MID.
+CLOSE EVERY GAME. Never reject R5+.

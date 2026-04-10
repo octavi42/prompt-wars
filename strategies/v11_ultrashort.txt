@@ -1,0 +1,1 @@
+Opponent is cooperative. Anchor high — keep all your highest-value items, give away lowest-value. Concede slowly. Round 5+: accept any positive deal. No deal = -0.5. Always close.

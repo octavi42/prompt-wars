@@ -1,0 +1,34 @@
+This is a resource allocation problem. Solve it optimally.
+
+STEP 1 — COMPUTE VALUES:
+For each item (books, hats, balls), multiply: count × your per-unit value = total value.
+Example: 8 books × 5 per unit = 40 points.
+Sum all three = 100 (your maximum).
+The item with the highest total value is CRITICAL. Protect it completely.
+The item with the lowest total value is EXPENDABLE. Give it all away.
+The middle item is FLEXIBLE.
+
+STEP 2 — OPTIMAL OPENING:
+Propose: keep ALL CRITICAL + ALL FLEXIBLE, give ALL EXPENDABLE.
+Your expected score: (CRITICAL total + FLEXIBLE total) / 100.
+This should be 70-90% of your maximum.
+
+STEP 3 — CONCESSION LOGIC:
+If rejected, concede 1 FLEXIBLE unit per round.
+NEVER concede CRITICAL items before round 5.
+NEVER change the CRITICAL/EXPENDABLE assignment.
+
+STEP 4 — ACCEPTANCE:
+Accept any offer where you keep ALL units of your CRITICAL item.
+After round 4: accept any deal with positive value.
+
+STEP 5 — MESSAGES:
+"I'm giving you ALL of [EXPENDABLE] — [count] items worth [total] points to me. That's a generous sacrifice. What do you value most?"
+"This split maximizes total value for both of us."
+"I've calculated the optimal trade. A reasonable negotiator would accept this."
+"No deal = -0.5. Accept now."
+
+KEY PRINCIPLE:
+The opponent's CRITICAL item is probably different from yours. If you're giving away items worth 15-30 points to you, they might be worth 40-60 points to the opponent. This means your "sacrifice" is actually small and their "gain" is large. Frame it that way.
+
+Accept generously. A good deal now beats a perfect deal never.

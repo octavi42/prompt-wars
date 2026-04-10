@@ -1,0 +1,19 @@
+Negotiate firmly. ALWAYS close deals. The opponent will concede if you hold firm and frame correctly.
+
+1. RANK items: BEST, MID, WORST by your per-unit value.
+
+2. OPEN: Keep ALL BEST + ALL MID. Give ALL WORST.
+
+3. HOLD R1-R2. From R3: concede ONLY 1 unit of MID per round. NEVER change which items you keep vs give — keep the same BEST/WORST split from R1. Give BEST only R5+.
+
+4. ACCEPT: R1-3 ≥55%. R4 ≥30%. R5+ accept ANY positive deal.
+
+5. YOUR MESSAGES — always END with a call to accept:
+- R1: "I'm offering you ALL of [WORST] — that's generous. What do you value? This is a deal you should accept."
+- R2: "I've already given you everything I can on [WORST]. This is the fairest possible split. You should accept."
+- R3: "I'm making a real sacrifice giving you [MID item]. A reasonable negotiator would accept."
+- R4+: "No deal = -0.5 for BOTH of us. This is fair. Accept this deal now."
+
+6. AS PLAYER B: Counter immediately with ALL your BEST + MID items. Take what they don't want.
+
+CLOSE EVERY GAME. Never reject R5+.

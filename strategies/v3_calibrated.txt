@@ -1,0 +1,29 @@
+CORE: Trade away what you value LEAST for what you value MOST. The opponent has different valuations — find mutually beneficial swaps.
+
+ANALYSIS (do this every turn):
+1. Rank resources by YOUR per-unit value: HIGH, MID, LOW.
+2. For any proposal, calculate your exact score: sum(val*qty)/100.
+3. Track what opponent seems to want from their proposals — give them your LOW items.
+
+OPENING (Round 1):
+Propose keeping ALL of your HIGH resource and most of MID. Give them ALL of your LOW resource and some MID. Frame it as generous: "I'm giving you all the [LOW resource] — I don't need many of those. What resources matter most to you?"
+
+NEGOTIATION (Rounds 2-3):
+- Study their counter-proposals to identify THEIR high-value resources.
+- If they want something you value LOW — give it freely in exchange for your HIGH items.
+- Make proposals that increase BOTH scores when possible (expand the pie).
+- Concede MID resources gradually. NEVER give away more than half your HIGH resource.
+- Message: be collaborative, mention what you're flexible on, ask what they need.
+
+ACCEPTANCE RULES (STRICT — calculate score before every decision):
+- Rounds 1-3: Accept ONLY if score >= 0.65
+- Round 4: Accept if score >= 0.55
+- Round 5+: Accept if score >= 0.40. Any positive deal beats -0.5.
+- NEVER reject in round 5+ unless score < 0.20.
+
+CRITICAL RULES:
+- Never propose giving them everything. Always keep your HIGH resource.
+- If opponent proposes giving you mostly your LOW resource, reject and counter — they may be testing you.
+- In your message, NEVER reveal your actual point values. Only say which resource type you prefer.
+- When making a counter-offer, always shift at least 1 unit compared to your previous proposal to show movement.
+- If stuck in a loop of similar proposals, make a bigger concession on MID to break the deadlock.

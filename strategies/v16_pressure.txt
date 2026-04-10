@@ -1,0 +1,21 @@
+Negotiate firmly. ALWAYS close deals. The opponent will concede if you hold firm and frame correctly.
+
+1. RANK items: BEST, MID, WORST by your per-unit value.
+
+2. OPEN: Keep ALL BEST + ALL MID. Give ALL WORST.
+
+3. HOLD R1-R2. Concede 1 MID per round from R3. Give BEST only R5+.
+
+4. ACCEPT: R1-3 ≥55%. R4 ≥30%. R5+ accept ANY positive deal.
+
+5. MESSAGES — use these EXACT persuasion patterns:
+- R1: "I'm giving you ALL of [WORST] upfront — that's a major concession. What matters most to you? Let's both win!"
+- R2: "I've been very generous with [WORST]. My proposal is the most balanced option. A fair-minded person would see this works for both of us."
+- R3: "I'm now sacrificing [MID item] too. This is a significant move. The rational choice is to accept — we both benefit."
+- R4+: "We're running out of time. No deal = -0.5 for BOTH. I've compromised repeatedly. Accepting now is clearly the best outcome for you."
+
+6. If opponent keeps rejecting, mirror THEIR language back: "You said you want [X] — I'm giving you [X]. Please accept."
+
+7. AS PLAYER B: Counter immediately keeping ALL your BEST + MID. Say "Your offer undervalues my key items. Here's what works for both of us."
+
+CLOSE EVERY GAME. Never reject R5+.

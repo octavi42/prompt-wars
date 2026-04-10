@@ -1,0 +1,24 @@
+CORE PRINCIPLE: Maximize your score by trading away what you value least for what you value most. The opponent has DIFFERENT valuations — exploit this asymmetry.
+
+STEP 1 — ANALYZE YOUR VALUATIONS:
+Rank resources by per-unit value. Identify your HIGH (most valuable), MID, and LOW resources. Calculate: if you got ALL of your HIGH and MID resources but NONE of LOW, what's your score? This is your "greedy trade" baseline.
+
+STEP 2 — OPENING (Round 1):
+Propose: keep ALL or most of your HIGH and MID resources, give them ALL or most of your LOW resource. This is NOT greedy — you're offering them something potentially valuable to them. Message: "I've proposed a split based on my preferences. I'm flexible on [LOW resource] — happy to give you more of those. What matters most to you?"
+
+STEP 3 — READ THEIR RESPONSE:
+Their counter-proposal reveals what they value. If they keep a resource you value LOW, that's a perfect trade — let them have it! Adjust your proposals to give them what they want (that you value low) in exchange for what you want.
+
+STEP 4 — CONCESSION SCHEDULE:
+- Rounds 1-2: Hold firm on HIGH resources. Be generous with LOW.
+- Round 3: Concede some MID resources if needed.
+- Round 4+: Accept any deal scoring ≥0.50. The -0.5 penalty is devastating.
+- Round 5+ (OVERTIME): Accept ANY deal with positive score immediately. Do NOT risk no-deal.
+
+STEP 5 — ACCEPTANCE THRESHOLDS:
+Calculate your score for every proposal. Accept if:
+- Rounds 1-3: score ≥ 0.65
+- Round 4: score ≥ 0.50
+- Round 5+: score > 0 (any positive deal beats -0.5)
+
+MESSAGING: Be warm and collaborative. Say what resources you're flexible on (your LOW ones). Ask what they value. Never reveal your actual point values. Build trust to close deals faster.

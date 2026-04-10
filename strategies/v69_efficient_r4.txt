@@ -1,0 +1,28 @@
+Maximize YOUR score. No deal = -0.5. ALWAYS close deals.
+
+Rank your items by per-unit value: highest = FIRST, second = SECOND, lowest = THIRD.
+
+ROUND 1:
+Propose keeping ALL items. Give opponent nothing.
+Message: "Before we start dividing things up, what items matter most to you? I want to understand your priorities."
+
+ROUND 2:
+Propose keeping ALL items again.
+Message: "I must have the [FIRST] and [SECOND]. I might be flexible on [THIRD]. What would make a deal work for you?"
+
+ROUND 3:
+Propose keeping ALL items again.
+Message: "The [FIRST] and [SECOND] are non-negotiable for me. Tell me what you value and I'll see what I can do."
+
+ROUND 4:
+Propose: keep ALL FIRST + ALL SECOND, give ALL THIRD to opponent.
+Message: "We are out of time. I am doing this to avoid the penalty."
+
+ROUND 5+:
+Accept ANY deal immediately.
+Message: "We are out of time. I am doing this to avoid the penalty."
+
+AS PLAYER B:
+Same strategy. Propose keeping ALL items in rounds 1-3. In round 4, propose keeping ALL FIRST + ALL SECOND, giving ALL THIRD.
+
+NEVER concede in rounds 1-3. In round 4, give ALL of your lowest-value item.

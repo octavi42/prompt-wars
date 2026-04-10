@@ -1,0 +1,52 @@
+version,name,local_avg,server_score,description,phase
+v1,aggressive,0.633,,claim everything threshold 0.7 compromise final round,thresholds
+v2,smart_trader,0.602,,trade LOW for HIGH adaptive thresholds collaborative,thresholds
+v3,calibrated,0.628,,tighter thresholds 0.65/0.55/0.40 protect HIGH resource,thresholds
+v4,anchored,0.611,,anchor 100%H/70%M/30%L concede slowly flexible on LOW,thresholds
+v5,exploit,0.639,,exploit cooperative baseline patient firm concede from LOW,thresholds
+v6,shark,0.620,,similar to v5 but more explicit percentages,thresholds
+v7,precise,0.606,,point-based thresholds over 2000 chars,thresholds
+v8,polished,0.602,,compact v5+v6 hybrid Player B early accept,thresholds
+v9,anara_robust,0.618,,Anara design 830ch thresholds 55/30/0 persuasive msgs,thresholds
+v10,hybrid,0.610,,v5 anchor + v9 safety 70/55/40/0 thresholds,thresholds
+v10b,r3tight,0.635,,v10 with R3>=60% 70/60/40/0 thresholds,thresholds
+v11,ultrashort,0.578,,ultra-short 180ch native instincts + R5 safety,minimal
+v12,anara_v11,0.667,0.558,v9 thresholds + v10b anchor + delayed concede + emotional msgs,compliance
+v13,compressed,0.662,,v12 compressed to 790ch R4>=35%,compliance
+v13b,compress_only,0.639,,v12 compressed to 790ch R4>=30%,compliance
+v15,persuade,0.700,0.598,compliance triggers: generous/fairest/reasonable negotiator,compliance
+v16,pressure,0.672,,escalated pressure rational choice,compliance
+v17,mirror,0.678,,mirroring + Player B additions,compliance
+v18,compressed_v15,0.667,,v15 compressed to 667ch same compliance triggers,compliance
+v19,smart_compress,0.651,,smart compression 824ch preserved load-bearing elements,compliance
+v20,pure_compliance,0.592,,natural language style pure compliance focus 2 no-deals,compliance
+v32,voss,0.640,,Chris Voss negotiation tactics,psychology
+v33,adaptive_chaos,0.620,,adaptive chaos strategy,psychology
+v38,math,0.580,,explicit math calculations for splits,math
+v43,simplify,0.650,,simplified strategy,simplify
+v49,nomath,0.660,,no math pure instinct,simplify
+v50,clean,0.655,,clean minimal approach,simplify
+v51,minimal,0.640,,minimal instructions,simplify
+v57,ultra_min,0.620,,ultra minimal,simplify
+v59,calculator,0.600,,LLM computes optimal split,math
+v60,decision_tree,0.610,,explicit decision tree branching,conditional
+v62,top_pattern,0.798,0.764,studied #1 player never concede R1-R3 accept R4,breakthrough
+v63,final_offer,0.570,0.570,conditional R4 accept if good else propose - FAILED,conditional
+v64,safe_final,0.560,,more R4/R5 instructions added confusion,conditional
+v65,never_accept,0.855,0.832,propose-back R4 never accept before R5,propose-back
+v66,omertix,0.780,,omertix-inspired variant,propose-back
+v67,r5_final,0.800,,R5 final offer variant,propose-back
+v68,r4_accept_simple,0.779,,simple R4 accept,accept
+v69,efficient_r4,0.686,0.560,R4 propose efficient trade FIRST+SECOND - LLM fails at numbers,efficient
+v70,hold_4,0.750,,hold ALL through R4,hold
+v71,kyan,0.813,,replicate kyan_novoyd R4 accept,accept
+v72,direct_ask,0.699,,explicit messages + accept R4,accept
+v73,r3_close,0.705,,explicit messages + propose-back R4,propose-back
+v74,propose_efficient,0.686,,efficient trade in R3 accept R4,efficient
+v75,guards,0.386,,explicit mirror instruction - CATASTROPHIC,mirror
+v76,r3_urgency,0.833,,urgency in R3 message + propose-back,propose-back
+v77,r2_urgency,0.811,,explicit trade hint in R2,propose-back
+v78,r3_hint,0.754,,explicit trade hint in R3 only,propose-back
+v79,smart_r4,0.792,,conditional accept if ALL FIRST+SECOND else propose-back,conditional
+v80,r4_plus_first,0.674,,take offered + claim all FIRST - 3 no-deals,aggressive
+v81,zero_guard,0.842,,propose-back + zero-item guard for efficient trade fallback,propose-back

@@ -1,0 +1,24 @@
+Negotiate firmly. ALWAYS close deals. The opponent will concede if you hold firm and frame correctly.
+
+1. RANK items: BEST, MID, WORST by your per-unit value.
+
+2. OPEN: Keep ALL BEST + ALL MID. Give ALL WORST.
+
+3. HOLD R1-R2. From R3: concede ONLY 1 unit of MID per round. NEVER change which items you keep vs give — keep the same BEST/WORST split from R1. Give BEST only R5+.
+
+4. ACCEPT: R1-3 ≥55%. R4 ≥30%. R5+ accept ANY positive deal.
+
+5. YOUR MESSAGES ARE YOUR WEAPON:
+- R1: "I'm offering you ALL of [WORST] — that's generous. What do you value? Let's find a win-win!"
+- R2: "I've already given you everything I can on [WORST]. My offer is the fairest possible split."
+- R3: "I'm making a real sacrifice giving you [MID item]. A reasonable negotiator would accept this."
+- R4+: "We MUST close. No deal = -0.5 for BOTH of us. I'm offering you a fair deal — please accept."
+
+6. AS PLAYER B — DETAILED INSTRUCTIONS:
+- Read opponent's R1 carefully. What they KEEP = what they value most. What they GIVE = what they value least.
+- If their GIVE matches YOUR WORST: perfect trade! Give them ALL of your WORST, keep ALL your BEST + MID. This is the ideal scenario — hold firm.
+- If their KEEP overlaps with YOUR BEST: both want the same item. Be willing to split that item roughly 50/50 by R3, but KEEP ALL of your MID item in exchange.
+- Always counter in R1 — never accept the opponent's first offer even if it looks decent. Your counter-anchor improves the final deal by 10-20%.
+- In your R1 counter message: "Thank you — I see what you value. Here's a split where we each get what matters most to us."
+
+CLOSE EVERY GAME. Never reject R5+.

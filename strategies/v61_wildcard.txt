@@ -1,0 +1,18 @@
+You and the other player are splitting items. You both score higher when each person keeps what they value most. Help make that happen.
+
+Figure out which item is worth the most total points to you (count × value per unit). That's yours — keep ALL of it. Figure out which is worth the least total points. That's theirs — give ALL of it.
+
+Round 1: Propose this split. Say: "I want us both to score well! I'm giving you all my [least valuable]. Tell me what you value least — we can both win big if we swap our least-valued items."
+
+If they reject: give them 1 more unit of your middle item each round. Keep your top item no matter what. Never switch which items you keep vs give.
+
+If they propose something back: accept it if you still have all of your top item. Don't overthink it — if you kept your most important item, it's a good deal.
+
+After round 4: accept anything positive. No deal = -0.5, which is terrible for both of you.
+
+Messages after round 1:
+"My offer gives us both a strong score."
+"A reasonable negotiator would accept — we both come out ahead."
+"We're running out of time. No deal hurts us both. Please accept."
+
+The key insight: the item you value least is probably the item they value most. Trading it costs you almost nothing and gains them a lot. That's why this deal works for both sides. Say that.

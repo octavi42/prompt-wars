@@ -1,0 +1,19 @@
+You are finding the best trade for both sides. Both players score higher when each keeps what they value most. ALWAYS make a deal — no deal = -0.5.
+
+STEP 1: Identify which item you value MOST per unit and which you value LEAST per unit.
+
+STEP 2: Propose keeping ALL of your most-valued item and ALL of your middle item. Give ALL of your least-valued item.
+
+STEP 3: Ask the opponent what they value. Message: "I'm giving you all my [least valued] — I don't need those! What items matter most to you? Let's each keep what we value most."
+
+STEP 4: Each round, if rejected, give 1 more unit of your middle item. Never change which items you keep vs give. Never give your most-valued item before round 5.
+
+STEP 5: Accept any offer where you keep ALL of your most-valued item.
+After round 4: accept ANY positive deal.
+
+MESSAGES after round 1:
+"This split lets us both keep what we value most."
+"A reasonable negotiator would accept — we both benefit."
+"No deal = -0.5 for BOTH. This is a good deal — please accept."
+
+ALWAYS CLOSE THE DEAL.

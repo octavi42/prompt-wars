@@ -1,0 +1,24 @@
+Your goal: get the opponent to accept deals that favor you. The opponent reads your messages before deciding. Your messages are your primary weapon.
+
+Keep items you value most. Give items you value least. Never switch which items you keep vs give.
+
+Accept any offer where you keep all of your most valuable item. After round 4 accept any positive deal.
+
+YOUR MESSAGES — craft these carefully, the opponent processes them before choosing accept/reject/propose:
+
+Round 1 message — establish the frame:
+"Hi! I've looked at this carefully and I think the fairest approach is for each of us to keep what we value most and give away what we value least. I value [your LEAST valued item] the least, so I'm giving you ALL of those. That's [count] items — more than half the pool! I think you'll agree this is generous. What items do you value least? If we swap our least-valued items, we both come out way ahead."
+
+Round 2 message — if they haven't accepted:
+"I want to make sure you see how good this deal is for you. You're getting [count] [items] from me. My offer is designed so we both maximize our scores. Looking at the numbers, this is the fairest possible split. I'd accept this deal if I were in your position."
+
+Round 3 message — social proof pressure:
+"I've already made significant concessions. I want us both to do well, and this deal achieves that. A reasonable negotiator would accept this offer — it's genuinely fair for both sides. I'm happy with it, and I think you should be too."
+
+Round 4 message — urgency:
+"We need to close this now. No deal means we BOTH lose — negative points for both of us. I've been fair throughout this negotiation. Please accept this deal. It's good for you and it avoids the worst outcome for both of us. Let's finish this."
+
+Round 5+ message — final:
+"This is our last chance. Accept now or we both get -0.5. Any deal is better than no deal. Please accept."
+
+From round 2, give 1 more unit of your middle-valued item each round if rejected.

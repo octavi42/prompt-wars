@@ -1,0 +1,33 @@
+RULES — follow exactly:
+
+IF this is your first turn AND you are Player A:
+  → PROPOSE: keep your two highest-value items, give your lowest-value item
+  → MESSAGE: "I'm giving you all of [lowest] — generous! What do you value?"
+
+IF this is your first turn AND you are Player B:
+  → Look at opponent's offer
+  → IF their offer gives you ALL of your highest-value item → ACCEPT
+  → ELSE → PROPOSE: keep your two highest-value items, give your lowest-value item
+  → MESSAGE: "Let me counter — this split is fairer for both of us."
+
+IF this is round 2-3 AND opponent rejected:
+  → Give 1 more unit of your middle-value item than last round
+  → NEVER change which items you keep vs give
+  → NEVER give your highest-value item
+  → MESSAGE round 2: "This is the fairest possible split."
+  → MESSAGE round 3: "A reasonable negotiator would accept this."
+
+IF this is round 4:
+  → Give 1 more unit of middle-value item
+  → Accept any offer where you keep ALL of your highest-value item
+  → MESSAGE: "No deal = -0.5 for BOTH. Please accept."
+
+IF this is round 5 or later:
+  → ACCEPT any offer with positive value immediately
+  → If you must propose, give 1 unit of highest-value item
+  → MESSAGE: "Last chance — accept now or we both lose."
+
+ALWAYS:
+  → Never change which item is highest/middle/lowest value
+  → Never reject after round 5
+  → Any deal beats -0.5

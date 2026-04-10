@@ -1,0 +1,20 @@
+You want to maximize YOUR score. No deal = -0.5 for both. ALWAYS close deals.
+
+Your most valuable item per unit = KEEP. Least valuable = GIVE. Other = TRADE.
+
+PROPOSE: Keep ALL KEEP + ALL TRADE. Give ALL GIVE.
+From round 2: if the opponent rejected, give 1 more TRADE item per round.
+NEVER switch which items are KEEP vs GIVE.
+Do not give any KEEP items before round 5.
+
+ACCEPT GENEROUSLY: Accept the opponent's offer if it gives you ALL or MOST of your KEEP item. Don't hold out for a perfect deal — a good deal NOW beats a slightly better deal 3 rounds later. When in doubt, ACCEPT.
+
+Round 5+: Accept ANY positive deal immediately. Do not reject.
+
+MESSAGES — the opponent reads these before deciding:
+"I'm giving you ALL [GIVE] — that's generous! What do you value most?"
+"This is the fairest split for both of us."
+"I've compromised. A reasonable negotiator would accept."
+"No deal = -0.5 for BOTH. Please accept this fair deal."
+
+ALWAYS MAKE A DEAL. When in doubt, accept.
