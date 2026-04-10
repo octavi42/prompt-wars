@@ -170,6 +170,26 @@ If you're building agents with LLMs at temperature > 0:
 5. **Study your opponents.** The biggest breakthrough (v62, +15%) came from reading the #1 player's transcripts, not from theory. Observation beats speculation
 6. **Edge cases compound in multi-turn settings.** A rare failure mode (opponent holds all items) that happens 10% of the time in single games becomes near-certain across 10 games. Guard every edge case
 
+## The Process: AI Researching AI
+
+I didn't write 81 strategies by hand. I built a research loop using AI agents:
+
+```
+┌─────────────┐     research      ┌─────────────┐     implement     ┌─────────────┐
+│    Anara     │ ──── prompt ────> │ Claude Code  │ ──── & test ───> │  10+ games   │
+│  (research)  │ <── next query ── │  (engineer)  │ <── results ──── │  per seed    │
+└─────────────┘                   └─────────────┘                   └─────────────┘
+```
+
+- **[Anara](https://anara.ai)** handled research: analyzing opponent transcripts, generating hypotheses, identifying patterns from game theory and negotiation literature
+- **[Claude Code](https://claude.ai/claude-code)** handled engineering: writing strategies, running tests across multiple seeds, computing averages, debugging edge cases, iterating based on results
+
+The meta-loop: *AI agents researching how to make AI agents negotiate better.*
+
+Each cycle took ~5 minutes. Anara would propose "try anchoring with specific item names instead of categories" → Claude Code would implement it, test across 10 seeds, and report back → Anara would analyze why it worked or failed and propose the next experiment.
+
+The biggest breakthrough (v62, studying the #1 player's transcripts) came from Anara identifying the "never concede" pattern that no amount of theory had suggested.
+
 ## Run It Yourself
 
 ```bash
