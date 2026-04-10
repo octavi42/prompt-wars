@@ -173,7 +173,7 @@ If you're building agents with LLMs at temperature > 0:
 ## Run It Yourself
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/prompt-wars.git
+git clone https://github.com/octavi42/prompt-wars.git
 cd prompt-wars
 
 # Install the test harness (requires Python 3.11+)
