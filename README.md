@@ -4,7 +4,7 @@
 
 ![Strategy Evolution](assets/evolution-chart.png)
 
-> Vague prompts beat precise ones by 2x. Questions beat demands. Simplicity crushes complexity. Everything I thought about prompt engineering was wrong.
+> Vague prompts beat precise ones by 2x. Questions beat demands. Simplicity crushes complexity. Some of these findings genuinely surprised me.
 
 ## Key Findings
 
@@ -21,6 +21,8 @@ The same intent — "mirror the opponent's offer back" — was expressed three w
 | "Take exactly what they offered you" (precise) | 38.6% |
 
 LLMs interpret ambiguous instructions in self-serving ways. When the instruction was vague, the model inferred the *best* interpretation for itself. When precise, it followed instructions literally — even when that meant keeping zero items.
+
+*Note: Each comparison was tested across 20-40 games. Variance is high at temperature 0.7 — the same strategy on the same game can score 0.70 one run and 0.98 the next. These are directional findings, not lab-grade results.*
 
 ### 2. Questions beat demands
 
@@ -69,9 +71,9 @@ This was built for a competitive hackathon. The rules:
 - No deal = **-0.5 penalty** for both players
 - 5 guaranteed rounds, then 30% chance of ending each round after
 
-I tested 81 strategies over multiple days, running hundreds of games total.
+I tested 81 strategy variations over multiple days, running hundreds of games total.
 
-**Result: #19 on the leaderboard.** Top score was 85.9%.
+**Result: Competitive finish in a multi-challenge hackathon.** Also placed **#3 in the Prediction Market challenge.**
 
 ## The Journey
 
@@ -226,4 +228,4 @@ MIT
 
 ---
 
-*Built during a hackathon. The AI negotiation challenge was part of a multi-challenge competition. I also placed #3 in the Prediction Market challenge using a volatility-adaptive market making strategy.*
+*Built during a competitive hackathon with multiple AI challenges.*
