@@ -198,28 +198,33 @@ The biggest breakthrough (v62, studying the #1 player's transcripts) came from A
 git clone https://github.com/octavi42/prompt-wars.git
 cd prompt-wars
 
-# Install the test harness (requires Python 3.11+)
-cd negotiation-challenge && pip install -e .
-
-# Set your Gemini API key
-export GEMINI_API_KEY=your_key_here
-
-# Test any strategy
-negotiate test ../strategies/v81_zero_guard.txt --seed 42 -n 10 --verbose
+# Install dependencies (Python 3.11+)
+pip install -r requirements.txt
 ```
+
+The test harness (`negotiation-challenge/`) is a separate package used during the hackathon and is not included in this repository. The strategies, results, and analysis are fully self-contained.
+
+### Regenerate Charts
+
+```bash
+# From the repo root (or any directory — paths are resolved automatically)
+python analysis/generate_charts.py
+```
+
+This reads `results/strategy_scores.csv` and outputs three PNG charts to `assets/`.
 
 ## Repository Structure
 
 ```
 prompt-wars/
 ├── README.md              ← You are here
+├── requirements.txt       ← Python dependencies
 ├── strategies/            ← All 81 strategy prompts (.txt files)
 ├── results/
 │   └── strategy_scores.csv  ← Scores for every version
 ├── assets/                ← Charts and images
-├── analysis/
-│   └── generate_charts.py   ← Reproduce all charts
-└── negotiation-challenge/ ← Test harness (game engine)
+└── analysis/
+    └── generate_charts.py   ← Reproduce all charts
 ```
 
 ## License

@@ -1,5 +1,6 @@
 """Generate charts for the prompt-wars README."""
 
+import os
 import pandas as pd
 import matplotlib.pyplot as plt
 import matplotlib
@@ -8,10 +9,13 @@ import numpy as np
 matplotlib.rcParams['font.family'] = 'sans-serif'
 matplotlib.rcParams['font.size'] = 12
 
-ASSETS = "../assets"
+# Resolve paths relative to this script so it works from any directory
+_SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+_ROOT_DIR = os.path.dirname(_SCRIPT_DIR)
+ASSETS = os.path.join(_ROOT_DIR, "assets")
 
 def load_data():
-    df = pd.read_csv("../results/strategy_scores.csv")
+    df = pd.read_csv(os.path.join(_ROOT_DIR, "results", "strategy_scores.csv"))
     # Extract version number for sorting
     df['v_num'] = df['version'].str.extract(r'v(\d+)').astype(float)
     df = df.sort_values('v_num')

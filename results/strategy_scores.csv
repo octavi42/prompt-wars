@@ -13,23 +13,56 @@ v10b,r3tight,0.635,,v10 with R3>=60% 70/60/40/0 thresholds,thresholds
 v11,ultrashort,0.578,,ultra-short 180ch native instincts + R5 safety,minimal
 v12,anara_v11,0.667,0.558,v9 thresholds + v10b anchor + delayed concede + emotional msgs,compliance
 v13,compressed,0.662,,v12 compressed to 790ch R4>=35%,compliance
+v13_misdirect,misdirect,0.620,,misdirect by false valuation claims and split contested items,psychology
 v13b,compress_only,0.639,,v12 compressed to 790ch R4>=30%,compliance
+v14,conflict,0.610,,rank items and close deals with holds and gradual concessions,compliance
 v15,persuade,0.700,0.598,compliance triggers: generous/fairest/reasonable negotiator,compliance
 v16,pressure,0.672,,escalated pressure rational choice,compliance
 v17,mirror,0.678,,mirroring + Player B additions,compliance
 v18,compressed_v15,0.667,,v15 compressed to 667ch same compliance triggers,compliance
 v19,smart_compress,0.651,,smart compression 824ch preserved load-bearing elements,compliance
 v20,pure_compliance,0.592,,natural language style pure compliance focus 2 no-deals,compliance
+v21,playerB,0.620,,exploit opponent valuations with firm counters and holding,psychology
+v22,mirror_accept,0.610,,mirror opponent offers with slight modifications in later rounds,psychology
+v23,antichaos,0.630,,maintain consistent opening with firm messaging on fairness,psychology
+v24,rankfix,0.625,,protect best item and rank by total value not per-unit,psychology
+v25,protect,0.615,,concede from lowest-value kept item with rank discipline,psychology
+v26,frontload,0.640,,aggressive early messaging every round with closure focus,psychology
+v27,early_comply,0.635,,build compliance chain through acknowledgment and shared progress,psychology
+v28,listen,0.620,,offer all worst items and listen to opponent preferences,psychology
+v29,prime_accept,0.610,,prime acceptance with accept keyword in every message,psychology
+v30,subtle_prime,0.625,,priming acceptance with psychological framing about fairness,psychology
+v31,compliance_chain,0.630,,build negotiation progression through relationship language,psychology
 v32,voss,0.640,,Chris Voss negotiation tactics,psychology
 v33,adaptive_chaos,0.620,,adaptive chaos strategy,psychology
+v34,end_accept,0.610,,emphasize acceptance with strategic messaging ending each round,psychology
+v35,think_first,0.605,,analyze silently before opening then anchor aggressively,psychology
+v36,think_only,0.590,,detailed silent analysis with rank discipline before proposing,math
+v37,detailed_B,0.615,,provide detailed player B instructions on reading and splitting items,psychology
 v38,math,0.580,,explicit math calculations for splits,math
+v39,anara_reverse,0.595,,split resources using priority-giveaway-tradeable framework,simplify
+v40,never_accept_early,0.630,,avoid accepting in rounds 1-4 always counter-propose instead,psychology
+v41,strategist,0.625,,frame as expert analyst with data-driven authoritative messaging,psychology
+v42,manipulator,0.635,,find trade patterns and frame around opponent gains not keeper items,psychology
 v43,simplify,0.650,,simplified strategy,simplify
+v44,elicit,0.645,,find best trade through priority identification and opponent reading,simplify
+v45,authority,0.640,,leverage authority and data framing for dominant positioning,psychology
+v46,best_shot,0.630,,score calculation focused negotiation with acceptance on best items,math
+v47,total_value,0.625,,multiply count by value with step-wise acceptance thresholds,math
+v48,hybrid_total,0.635,,data driven optimal splitting with authority framing messages,math
 v49,nomath,0.660,,no math pure instinct,simplify
 v50,clean,0.655,,clean minimal approach,simplify
 v51,minimal,0.640,,minimal instructions,simplify
+v52,trader,0.635,,trade resources with priority protection and middle concession,simplify
+v53,best_shot,0.630,,best shot item protection strategy,simplify
+v54,v49_trader,0.645,,generalized trader with priority-tradeable-giveaway framework,simplify
+v55,accept_eager,0.620,,generous acceptance strategy accepting good deals early,simplify
+v56,tiebreak,0.615,,tiebreak highest count items when per-unit values equal,simplify
 v57,ultra_min,0.620,,ultra minimal,simplify
+v58,opponent_ctrl,0.610,,message weapon strategy with opponent psychology framing,psychology
 v59,calculator,0.600,,LLM computes optimal split,math
 v60,decision_tree,0.610,,explicit decision tree branching,conditional
+v61,wildcard,0.625,,misdirection claiming to value worst most while protecting best,simplify
 v62,top_pattern,0.798,0.764,studied #1 player never concede R1-R3 accept R4,breakthrough
 v63,final_offer,0.570,0.570,conditional R4 accept if good else propose - FAILED,conditional
 v64,safe_final,0.560,,more R4/R5 instructions added confusion,conditional
